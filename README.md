@@ -43,4 +43,3 @@ Edit the `config.ts` file to specify:
 
 - Target group chat names
 - User IDs to monitor
-- Logging preferences
